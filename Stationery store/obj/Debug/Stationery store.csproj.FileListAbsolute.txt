@@ -1,0 +1,32 @@
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.csprojAssemblyReference.cache
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.LoginForm.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.Properties.Resources.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.csproj.GenerateResource.cache
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.csproj.CoreCompileInputs.cache
+D:\Stationery store\Stationery store\bin\Debug\Stationery store.exe.config
+D:\Stationery store\Stationery store\bin\Debug\Stationery store.exe
+D:\Stationery store\Stationery store\bin\Debug\Stationery store.pdb
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.exe
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.pdb
+D:\Stationery store\Stationery store\bin\Debug\MySql.Data.dll
+D:\Stationery store\Stationery store\bin\Debug\Google.Protobuf.dll
+D:\Stationery store\Stationery store\bin\Debug\Zstandard.Net.dll
+D:\Stationery store\Stationery store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Stationery store\Stationery store\bin\Debug\BouncyCastle.Crypto.dll
+D:\Stationery store\Stationery store\bin\Debug\Ubiety.Dns.Core.dll
+D:\Stationery store\Stationery store\bin\Debug\Renci.SshNet.dll
+D:\Stationery store\Stationery store\bin\Debug\System.Buffers.dll
+D:\Stationery store\Stationery store\bin\Debug\K4os.Compression.LZ4.dll
+D:\Stationery store\Stationery store\bin\Debug\K4os.Hash.xxHash.dll
+D:\Stationery store\Stationery store\bin\Debug\System.Memory.dll
+D:\Stationery store\Stationery store\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Stationery store\Stationery store\bin\Debug\System.Numerics.Vectors.dll
+D:\Stationery store\Stationery store\bin\Debug\MySql.Data.xml
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.exe.config
+D:\Stationery store\Stationery store\obj\Debug\Stationery store.csproj.CopyComplete
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.RegisterForm.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.MainForm.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.MainShop.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.AddProduct.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.OrderForm.resources
+D:\Stationery store\Stationery store\obj\Debug\Stationery_store.Orders.resources
